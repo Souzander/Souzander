@@ -1,7 +1,7 @@
 ## Olá bem vindo ao meu portifolio 👋
-Meu nomo é Anderson
-Sou professor no colégio Rosilda
-Dou aula de Pensamento Computacional
+* Meu nome é Anderson
+* Sou professor no colégio Rosilda
+* Dou aula de Pensamento Computacional
 <!--
 **Souzander/Souzander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
